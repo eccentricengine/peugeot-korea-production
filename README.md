@@ -1,1 +1,2 @@
-# peugeot-korea-production
+# Peugeot Korea Production
+Desktop application for the Peugeot Korea Staging
